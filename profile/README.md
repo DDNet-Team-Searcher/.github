@@ -18,7 +18,6 @@ You simply cant run it on Windows because i use /dev/shm for ipc. That's it
     - [ ] Reported users page
 - [ ] Possibility to watch happenings without need to be logged in but without possibility to interact with it
 - [ ] Do something with clans? or just remove them at all
-- [ ] Fix the god damn checkbox...
 - [ ] Blog? or remove those blog posts on main page
 - [ ] Send an email with confirmation code when new user is registering and require this code as last register step
 - [ ] Break happening creating modal in few steps instead of one big ass
@@ -36,6 +35,7 @@ You simply cant run it on Windows because i use /dev/shm for ipc. That's it
 - [ ] Show uploaded image of an event
 - [ ] Git gud in desing
 - [ ] Adaptive design 🤮
+- [x] Fix the god damn checkbox...
 - [x] Put `@Innocent` decorator on needed controllers' methods
 - [x] Make a ddnet server send a request to Rust server when players finished a map
 - [x] Add severs command to ddnet server like `sv_shutdown_after_finish` and `sv_wait_before_shutdown_after_finish` or smth like that
