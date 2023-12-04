@@ -1,4 +1,5 @@
 # Hi owo 👋
+
 This file is here for 2 reasons:
 - To say that this project cant be run on Windows
 - To be project's todo list
@@ -7,7 +8,6 @@ This file is here for 2 reasons:
 You simply cant run it on Windows because i use /dev/shm for ipc. That's it
 
 ## TODO
-- [ ] Put `@Innocent` decorator on needed controllers' methods
 - [ ] Filters on search page
 - [ ] Page with user's happenings
 - [ ] Admin page
@@ -36,6 +36,7 @@ You simply cant run it on Windows because i use /dev/shm for ipc. That's it
 - [ ] Show uploaded image of an event
 - [ ] Git gud in desing
 - [ ] Adaptive design 🤮
+- [x] Put `@Innocent` decorator on needed controllers' methods
 - [x] Make a ddnet server send a request to Rust server when players finished a map
 - [x] Add severs command to ddnet server like `sv_shutdown_after_finish` and `sv_wait_before_shutdown_after_finish` or smth like that
 - [x] Add footer
