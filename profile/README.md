@@ -21,6 +21,7 @@ You simply cant run it on Windows because i use /dev/shm for ipc. That's it
 - [ ] Blog? or remove those blog posts on main page
 - [ ] Send an email with confirmation code when new user is registering and require this code as last register step
 - [ ] Break happening creating modal in few steps instead of one big ass
+- [ ] Refactor websocket messages
 - [ ] Localization
     - [ ] Backend
         - [ ] CZ
