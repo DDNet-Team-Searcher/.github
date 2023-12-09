@@ -8,7 +8,6 @@ This file is here for 2 reasons:
 You simply cant run it on Windows because i use /dev/shm for ipc. That's it
 
 ## TODO
-- [ ] Filters on search page
 - [ ] Page with user's happenings
 - [ ] Admin page
     - [ ] Roles page
@@ -36,6 +35,7 @@ You simply cant run it on Windows because i use /dev/shm for ipc. That's it
 - [ ] Show uploaded image of an event
 - [ ] Git gud in desing
 - [ ] Adaptive design 🤮
+- [x] Filters on search page
 - [x] Fix the god damn checkbox...
 - [x] Put `@Innocent` decorator on needed controllers' methods
 - [x] Make a ddnet server send a request to Rust server when players finished a map
