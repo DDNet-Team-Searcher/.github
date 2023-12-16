@@ -23,12 +23,14 @@ You simply cant run it on Windows because i use /dev/shm for ipc. That's it
 - [ ] Localization
     - [ ] Backend
         - [ ] CZ
-        - [ ] EN
-        - [ ] UA
-        - [ ] RUS
+        - [x] EN
+        - [x] PL
+        - [x] UA
+        - [x] RUS
     - [ ] Frontend
         - [ ] CZ
         - [ ] EN
+        - [ ] PL
         - [ ] UA
         - [ ] RUS
 - [ ] Show uploaded image of an event
