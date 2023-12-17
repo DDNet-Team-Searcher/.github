@@ -1,5 +1,7 @@
 # Hi owo 👋
 
+#### I hope one day ill rewrite it in go and htmx
+
 This file is here for 2 reasons:
 - To say that this project cant be run on Windows
 - To be project's todo list
