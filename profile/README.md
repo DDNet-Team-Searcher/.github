@@ -36,6 +36,7 @@ You simply cant run it on Windows because i use /dev/shm for ipc. That's it
         - [ ] UA
         - [ ] RUS
 - [ ] Show uploaded image of an event
+- [ ] Show how many players already in a run
 - [ ] Git gud in desing
 - [ ] Adaptive design 🤮
 - [x] Send an email with confirmation code when new user is registering and require this code as last register step
