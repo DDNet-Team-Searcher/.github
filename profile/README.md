@@ -35,6 +35,7 @@ You simply cant run it on Windows because i use /dev/shm for ipc. That's it
         - [ ] PL
         - [ ] UA
         - [ ] RUS
+- [ ] Organize design in Figma
 - [ ] Show uploaded image of an event
 - [ ] Show how many players already in a run
 - [ ] Git gud in desing
